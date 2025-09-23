@@ -1,0 +1,19 @@
+# Virtual env
+.venv/
+venv/
+*.venv/
+
+# Large binaries
+*.dll
+*.lib
+*.so
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS junk
+.DS_Store
+Thumbs.db
